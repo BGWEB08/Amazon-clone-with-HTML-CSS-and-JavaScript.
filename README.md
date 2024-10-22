@@ -1,6 +1,6 @@
 # Amazon Clone 
 
-This project is a static Amazon clone built purely with front-end technologies. The design replicates key Amazon pages like product listings, product details, login, and register pages, all created using **HTML**, **CSS**, and **JavaScript**. There is no dynamic functionality, and the focus is entirely on the design.
+This project is a static Amazon clone built purely with front-end technologies. The design replicates key Amazon pages like product listings, product details, login, and register pages, all created using **HTML**, **CSS**, and **JavaScript**. 
 
 ## Features
 
