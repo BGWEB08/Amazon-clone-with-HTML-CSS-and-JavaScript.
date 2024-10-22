@@ -303,7 +303,7 @@ footer {
     display: none;
   }
   .nav-bottom p {
-    text-wrap: nowrap;
+    white-space: nowrap;
   }
   .mobile-user-icon{
     display: flex !important;
